@@ -93,9 +93,9 @@ Feel free to fork this project and submit pull requests with improvements. You c
 
 ## 📫 Contact
 
-M jayanth  - [@jayanthmarupaka29](https://github.com/jayanthmarupaka29)
+D YUVA KIRAN - [@yuvak1025](https://github.com/yuvak1025)
 
-Project Link: [https://github.com/jayanthmarupaka29/Pizza-Sales-Analysis](https://github.com/jayanthmarupaka29/Pizza-Sales-Analysis)
+Project Link: [https://github.com/yuvak1025/Pizza-Sales-Analysis](https://github.com/yuvak1025/Pizza-Sales-Analysis)
 
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
